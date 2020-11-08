@@ -1,0 +1,11 @@
+/*------------------------------------------------------------------
+[Main Stylesheet]
+
+Author      :	WREP
+Version     :	1.0
+Created     :	5 Agustus 2018
+Template    :	Go-Shopping
+-------------------------------------------------------------------*/
+.content-header .breadcrumb li a{
+    color: #fff;
+}
